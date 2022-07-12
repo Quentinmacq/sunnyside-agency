@@ -1,2 +1,2 @@
 # sunnyside-agency
-suicide
+

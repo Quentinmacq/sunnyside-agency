@@ -1,0 +1,26 @@
+main
+{
+    
+
+    header
+    {
+       
+        display: flex;
+        background-image: url(/Users/Carmante/Desktop/becode/sunnyside-agency/assets/images/photos/image-header.jpg) ;
+        background-size: cover;
+        background-position: center;
+
+       
+       
+        .mainmenu
+       {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+            .logo
+            {
+                justify-content: flex-start;
+            }
+       }
+    }
+}
